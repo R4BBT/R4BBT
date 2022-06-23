@@ -1,6 +1,6 @@
-👋 [Hello there](https://tenor.com/6uZZ.gif)
+👋 Hello there
 <br/>
-[LinkedIn](https://www.linkedin.com/in/ryan-fangk/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[My LinkedIn](https://www.linkedin.com/in/ryan-fangk/)
 
 <!---
 R4BBT/R4BBT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
