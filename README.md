@@ -1,3 +1,4 @@
+👋 [Hello there](https://tenor.com/6uZZ.gif)
 [LinkedIn](https://www.linkedin.com/in/ryan-fangk/)
 
 <!---
